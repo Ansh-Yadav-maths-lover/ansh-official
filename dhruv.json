@@ -1,0 +1,19 @@
+{
+   "data" : [
+                {
+             "name" : "Dhruv Rathee GPT course",
+              "Link" : "your_link",
+              "img" : "img_link"
+              },
+            {
+             "name" : "Dhruv Rathee GPT course2",
+              "Link" : "your_link",
+              "img" : "img_link"
+              },
+             {
+             "name" : "Dhruv Rathee GPT course3",
+              "Link" : "your_link",
+              "img" : "img_link"
+              },
+        ]
+}
